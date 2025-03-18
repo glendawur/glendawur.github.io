@@ -25,11 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a repo with Personal Website to host on GitHub Pages using Jekyll and Minimal Mistakes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glendawur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  glendawur
 
 # Build settings
 # theme: minimal-mistakes-jekyll
+markdown: kramdown
+minimal_mistakes_skin: "dark"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-paginate
@@ -43,8 +44,19 @@ include:
   - _pages
   - _media
 
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "dark"
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 author:
   name: "Andrei Rykov"
