@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Andrei Rykov"
   avatar: "/assets/images/BIO.png"
-  bio: "PhD Candidate at ITMO University, Data Science Engineer at Razum AI"
+  bio: "PhD Candidate at ITMO University, ML Engineer at Huawei"
   location: "St. Petersburg, Russia"
   links:
     - label: "Email"

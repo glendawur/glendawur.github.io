@@ -7,9 +7,11 @@ permalink: /
 Hi there! 
 
 My name is **Andrei Rykov** (Андрей Рыков).
-I'm a PhD candidate in ITMO University, St. Petersburg, and I'm also part-time data science engineer at [[Razum AI]](https://ai-razum.ru/en) platform.
+I'm a PhD candidate in ITMO University, St. Petersburg, and I'm also ML engineer at Huawei (Lomonosov Research Institute).
 
 You can find my CV [[here]](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en.pdf). Feel free to reach out via e-mail: `a dot g dot rykov at glndwr dot ru`.
+
+**Last Update:** 25.08.2025
 
 ### [Research interests]
 
@@ -30,6 +32,7 @@ IEEE Access<br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10382499/) - [[code]](https://github.com/glendawur/indices_kmeans)
 
 [More Publications Expected]
+
 
 <!-- Change to `true` to show posts -->
 <!-- {% if false %}  
