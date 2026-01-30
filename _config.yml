@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Andrei Rykov"
   avatar: "/assets/images/BIO.png"
-  bio: "PhD Candidate at ITMO University, ML Engineer at Huawei"
+  bio: "Deep Learning Engineer at Chebyshev Research Center"
   location: "St. Petersburg, Russia"
   links:
     - label: "Email"

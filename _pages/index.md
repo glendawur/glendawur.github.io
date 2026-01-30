@@ -7,7 +7,8 @@ permalink: /
 Hi there! 
 
 My name is **Andrei Rykov** (Андрей Рыков).
-I'm a PhD candidate in ITMO University, St. Petersburg, and I'm also ML engineer at Huawei (Lomonosov Research Institute).
+<!-- I'm a PhD candidate in ITMO University, St. Petersburg, and I'm also ML engineer at Huawei (Lomonosov Research Institute). -->
+I'm Deep Learning Engineer at Chebyshёv Research Center of Lomonosov Research Institute (Huawei), working on code generation problems with LLMs.
 
 You can find my CV [[here]](https://github.com/glendawur/glendawur/blob/main/Rykov_CV_en.pdf). Feel free to reach out via e-mail: `a dot g dot rykov at glndwr dot ru`.
 

@@ -2,7 +2,6 @@
 title: "[Contact Me]"
 permalink: /contact/
 layout: single
-author_profile: true
 ---
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to say hi!
