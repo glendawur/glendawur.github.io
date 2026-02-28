@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Andrei Rykov"
   avatar: "/assets/images/BIO.png"
-  bio: "Deep Learning Engineer at Chebyshev Research Center"
+  bio: "Research Engineer at Chebyshev Research Center"
   location: "St. Petersburg, Russia"
   links:
     - label: "Email"
